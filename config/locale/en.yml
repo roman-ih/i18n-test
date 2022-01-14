@@ -1,5 +1,4 @@
 en:
-    Hello:
-        foo: Foo
-        bar: Bar
-        baz: Baz
+  Hello:
+    foo: Foo
+    bar: Bar
